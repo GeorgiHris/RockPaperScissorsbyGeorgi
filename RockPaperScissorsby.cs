@@ -1,5 +1,4 @@
 ﻿
-
 const string Rock = "Rock";
 const string Paper = "Paper";
 const string Scissorsby = "Scissorsb";
@@ -27,4 +26,5 @@ else if (compRandomNum == 2)
 else if (compRandomNum == 3)
     computerMove = "Scissorsb";
 
-
+if(computerMove="Rack && "playerMove = "Paper")
+        Console.WriteLine("WIn");
